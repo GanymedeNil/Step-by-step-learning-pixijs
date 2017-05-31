@@ -1,3 +1,4 @@
-# My Awesome Book
+# 一步步学习pixi.js
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+ 本书基于4.5.2为基础进行讲解。
+
